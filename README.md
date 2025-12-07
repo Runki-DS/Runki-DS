@@ -18,4 +18,4 @@
   - Машинное обучение: scikit-learn, RandomForest, GradientBoosting, XGBoost, CatBoost, LightGBM, SVM, KNN, TensorFlow Keras, PIL, NLTK, PyTorch
 
 ## Образование
-- Курс "Data Science расширенный", Яндекс Практикум
+- Курс "Специалист по Data Science", Яндекс Практикум
