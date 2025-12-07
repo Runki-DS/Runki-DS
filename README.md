@@ -17,5 +17,12 @@
   - Визуализация: Matplotlib, Seaborn, Plotly, SHAP
   - Машинное обучение: scikit-learn, RandomForest, GradientBoosting, XGBoost, CatBoost, LightGBM, SVM, KNN, TensorFlow Keras, PIL, NLTK, PyTorch
 
+## Профессиональные сферы:
+- безопасность
+- право
+- финансы
+- retail
+- производство продуктов питания
+
 ## Образование
 - Курс "Специалист по Data Science", Яндекс Практикум
