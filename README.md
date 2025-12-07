@@ -13,7 +13,7 @@
 - Языки: Python, HTML, CSS, SQL
 - Среда: Jupiter Notebook (Anaconda, Yandex DataSphere), Google Colab
 - Библиотеки:
-  - Анализ данных: pandas, polars, NumPy, SciPy, StatsModels, phik
+  - Анализ данных: pandas, polars, NumPy, SciPy, StatsModels, Phi_K
   - Визуализация: Matplotlib, Seaborn, Plotly, SHAP
   - Машинное обучение: scikit-learn, RandomForest, GradientBoosting, XGBoost, CatBoost, LightGBM, SVM, KNN, TensorFlow Keras, PIL, NLTK, PyTorch
 
