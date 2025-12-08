@@ -6,7 +6,7 @@
  - telegram: @Runki
 
 ## Проекты
-- **[Проекты Яндекс Практикум](https://github.com/Runki-DS/Yandex-Practicum-Projects/)**  
+- **[Проекты Яндекс Практикум](https://github.com/Runki-DS/Yandex-Practicum-Projects/blob/main/README.md)**  
 - **[Мои личные проекты](https://github.com/Runki-DS/My-projects)**
 
 ## Навыки
