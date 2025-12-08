@@ -7,7 +7,7 @@
 
 ## Проекты
 - **[Проекты Яндекс Практикум](https://github.com/Runki-DS/Yandex-Practicum-Projects/blob/main/README.md)**  
-- **[Мои личные проекты](https://github.com/Runki-DS/My-projects)**
+- **[Мои личные проекты](https://github.com/Runki-DS/My-projects/blob/main/README.md)**
 
 ## Навыки
 - Языки: Python, HTML, CSS, SQL
