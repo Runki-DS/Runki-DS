@@ -26,3 +26,5 @@
 
 ## Образование
 - Курс "Специалист по Data Science", Яндекс Практикум
+
+![](https://komarev.com/ghpvc/?username=Runki-DS&color=blue&style=flat)
